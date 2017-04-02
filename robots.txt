@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /4dmhb
+Disallow: /block
+Disallow: /css
+Disallow: /fonts
+Disallow: /img
+Disallow: /js
+Disallow: /schb

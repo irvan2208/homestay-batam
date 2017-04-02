@@ -1,0 +1,4 @@
+[28-Oct-2016 07:41:37 America/Chicago] PHP Parse error:  syntax error, unexpected '$c' (T_VARIABLE), expecting ';' in /home/homesta1/public_html/bintang.php on line 6
+[03-Dec-2016 12:41:36 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/homesta1/public_html/block/koneksi.php on line 2
+[04-Dec-2016 01:41:36 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/homesta1/public_html/block/slide.php on line 11
+[04-Dec-2016 01:41:36 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/homesta1/public_html/block/slide.php on line 12

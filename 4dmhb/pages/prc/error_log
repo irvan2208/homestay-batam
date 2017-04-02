@@ -1,0 +1,4 @@
+[23-Aug-2016 04:20:33 America/Chicago] PHP Warning:  include(../404.html): failed to open stream: No such file or directory in /home/homesta1/public_html/4dmhb/pages/prc/approvereq.php on line 4
+[23-Aug-2016 04:20:33 America/Chicago] PHP Warning:  include(): Failed opening '../404.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/homesta1/public_html/4dmhb/pages/prc/approvereq.php on line 4
+[25-Oct-2016 10:47:04 Asia/Jakarta] PHP Warning:  md5() expects parameter 1 to be string, array given in /home/homesta1/public_html/4dmhb/pages/prc/logscpin.php on line 8
+[27-Oct-2016 14:51:59 Asia/Jakarta] PHP Warning:  md5() expects parameter 1 to be string, array given in /home/homesta1/public_html/4dmhb/pages/prc/logscpin.php on line 8
