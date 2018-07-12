@@ -1,7 +1,7 @@
 <?php
 $db = new mysqli("localhost","root","","homesta1_btm1108");
 $port = ":80"; //ganti port localhost disini kalau ada
-$base_url = "http://" .$_SERVER['SERVER_NAME']."/";
+$base_url = "https://" .$_SERVER['SERVER_NAME']."/";
 $websitename = "Homestay-Batam";
 date_default_timezone_set('Asia/Jakarta');
 
